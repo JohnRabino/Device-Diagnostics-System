@@ -1,0 +1,8 @@
+src/edu.devicediagnostic/Device.java
+src/edu.devicediagnostic/FastBootPowerOn.java
+src/edu.devicediagnostic/NormalPowerOn.java
+src/edu.devicediagnostic/Powerable.java
+src/edu.johnmelvinrabino/Laptop.java
+src/edu.johnmelvinrabino/Main.java
+src/edu.johnmelvinrabino/Smartphone.java
+src/edu.johnmelvinrabino/Tablet.java
